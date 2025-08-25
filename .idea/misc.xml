@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (financial-data-parser)" />
   </component>
+=======
+>>>>>>> e3ea60ddcb052c074e8030578004568bf3a25c92
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (financial-data-parser)" project-jdk-type="Python SDK" />
 </project>
